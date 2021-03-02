@@ -1,4 +1,4 @@
-# hesap_makinesi
+# hesap_makinesi (calculator)
 
 A new Flutter project.
 
